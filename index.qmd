@@ -1,0 +1,26 @@
+---
+title: "Visualizing Corporate Dynamics and Business Transactions in Oceanus"
+auther: "ZHANG Chenbin, ZOU Jiaxun"
+---
+
+## **Short Description:**
+
+This project aims to develop a web-enabled visual analytics application using Shiny to analyze and visualize the temporal patterns in corporate structures and business transactions within the Oceanus commercial fishing industry. Motivated by the need to identify and prevent illegal fishing activities, this application will provide tools for visualizing changes in ownership, shareholder relationships, and business transactions. Our objective is to support analysts in identifying influential individuals and companies, understanding the impact of illegal activities, and making informed decisions to safeguard the marine ecosystem. Key features of the application will include interactive visualizations of corporate networks, analysis of business transactions, and tools to infer the influence dynamics over time.
+
+## **Proposal:**
+
+### **Motivation:**
+
+Illegal fishing activities have significant environmental and economic impacts, necessitating robust tools for monitoring and analysis. By focusing on the Oceanus fishing industry, this project aims to provide analysts with the visual tools required to identify and prevent illegal activities, ensuring the sustainability of the marine ecosystem.
+
+### **Problems or Issues Addressed:**
+
+-   **Illegal Fishing**: Understanding the network and influence of companies involved in illegal fishing.
+
+-   **Corporate Structure Changes**: Visualizing how corporate structures and ownership change over time.
+
+-   **Business Transactions**: Identifying and analyzing typical and atypical business transactions to infer motivations and detect suspicious activities.
+
+### **Related Work:**
+
+Existing visual analytics tools often focus on static representations of data. Our project seeks to extend these capabilities by providing dynamic, interactive visualizations that highlight temporal changes in corporate structures and business transactions.

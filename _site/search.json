@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Visualizing Corporate Dynamics and Business Transactions in Oceanus",
+    "section": "",
+    "text": "This project aims to develop a web-enabled visual analytics application using Shiny to analyze and visualize the temporal patterns in corporate structures and business transactions within the Oceanus commercial fishing industry. Motivated by the need to identify and prevent illegal fishing activities, this application will provide tools for visualizing changes in ownership, shareholder relationships, and business transactions. Our objective is to support analysts in identifying influential individuals and companies, understanding the impact of illegal activities, and making informed decisions to safeguard the marine ecosystem. Key features of the application will include interactive visualizations of corporate networks, analysis of business transactions, and tools to infer the influence dynamics over time."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#short-description",
+    "href": "index.html#short-description",
+    "title": "Visualizing Corporate Dynamics and Business Transactions in Oceanus",
+    "section": "",
+    "text": "This project aims to develop a web-enabled visual analytics application using Shiny to analyze and visualize the temporal patterns in corporate structures and business transactions within the Oceanus commercial fishing industry. Motivated by the need to identify and prevent illegal fishing activities, this application will provide tools for visualizing changes in ownership, shareholder relationships, and business transactions. Our objective is to support analysts in identifying influential individuals and companies, understanding the impact of illegal activities, and making informed decisions to safeguard the marine ecosystem. Key features of the application will include interactive visualizations of corporate networks, analysis of business transactions, and tools to infer the influence dynamics over time."
+  },
+  {
+    "objectID": "index.html#proposal",
+    "href": "index.html#proposal",
+    "title": "Visualizing Corporate Dynamics and Business Transactions in Oceanus",
+    "section": "Proposal:",
+    "text": "Proposal:\n\nMotivation:\nIllegal fishing activities have significant environmental and economic impacts, necessitating robust tools for monitoring and analysis. By focusing on the Oceanus fishing industry, this project aims to provide analysts with the visual tools required to identify and prevent illegal activities, ensuring the sustainability of the marine ecosystem.\n\n\nProblems or Issues Addressed:\n\nIllegal Fishing: Understanding the network and influence of companies involved in illegal fishing.\nCorporate Structure Changes: Visualizing how corporate structures and ownership change over time.\nBusiness Transactions: Identifying and analyzing typical and atypical business transactions to infer motivations and detect suspicious activities.\n\n\n\nRelated Work:\nExisting visual analytics tools often focus on static representations of data. Our project seeks to extend these capabilities by providing dynamic, interactive visualizations that highlight temporal changes in corporate structures and business transactions."
+  }
+]
